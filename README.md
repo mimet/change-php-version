@@ -11,7 +11,7 @@ This script allow you to quickly change the version of PHP running on the system
 1. You need to have installed at least two versions of `php`
 
 ## How to use
-1. Download and unzip in any folder (for example, in `home/YOUR_NAME/bin/`)
+1. Download and unzip in any folder (for example, in `/home/YOUR_NAME/bin/`)
 2. Open a terminal emulator and go to the folder where you extracted the script	
 3. When you're in the same folder that contains the script, type the following code:
 
